@@ -110,3 +110,22 @@ To process data, you can modify the app.py script to include your data processin
 This template was built as part of the [Data Science and Machine Learning Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) by 4Geeks Academy by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Learn more about [4Geeks Academy BootCamp programs](https://4geeksacademy.com/us/programs) here.
 
 Other templates and resources like this can be found on the school's GitHub page.
+
+
+
+
+# Detector de Billetes
+
+Aplicación web desarrollada con **Streamlit** que utiliza un modelo de Machine Learning para clasificar billetes como auténticos o falsos.
+
+## 🚀 Aplicación en línea
+
+https://aplicaci-n-web-ml-con-el-tutorial-uwie.onrender.com
+
+## 🛠 Tecnologías
+
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- Joblib
